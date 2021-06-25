@@ -1,0 +1,3 @@
+﻿  strcmp.c
+c:\users\jeongdahyeon\source\repos\201802152_정다현_07주차_실습\201802152_정다현_07주차_실습\strcmp.c(16): warning C4020: 'strcmp': 실제 매개 변수가 너무 많습니다.
+  201802152_정다현_07주차_실습.vcxproj -> C:\Users\JeongDaHyeon\source\repos\201802152_정다현_07주차_실습\Debug\201802152_정다현_07주차_실습.exe
